@@ -1,0 +1,16 @@
+# Archivos temporales y de respaldo de KiCad
+*.bak
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*-bak
+*~
+_autosave-*
+*.lck
+
+# Caches y archivos locales
+fp-info-cache
+*.pyc
+
+# Carpetas de salida (puedes descomentar si generas gerbers aquí)
+# plots/
+# gerbers/
